@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CEOJokes/ProductTableViewCell.swift"
+            timestampString = "478153591.810397"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "BuyButton(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FeedViewController.swift"
+            timestampString = "478149943.967101"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "90"
+            endingLineNumber = "90"
+            landmarkName = "prepareForSegue(_:sender:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FeedViewController.swift"
+            timestampString = "478149673.149965"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "FeedViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CEOJokes.FeedViewController.jokes.setter : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CEOJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessicacherny/Desktop/MDB2016/CEOJokes/FeedViewController.swift"
+                  timestampString = "478149944.974467"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CEOJokes.FeedViewController.jokes.materializeForSet : Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "CEOJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessicacherny/Desktop/MDB2016/CEOJokes/FeedViewController.swift"
+                  timestampString = "478149944.974675"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CEOJokes.FeedViewController.init (CEOJokes.FeedViewController.Type)(collectionViewLayout : __ObjC.UICollectionViewLayout) -&gt; CEOJokes.FeedViewController"
+                  moduleName = "CEOJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessicacherny/Desktop/MDB2016/CEOJokes/FeedViewController.swift"
+                  timestampString = "478149944.974918"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "495">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CEOJokes.FeedViewController.init (CEOJokes.FeedViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; CEOJokes.FeedViewController"
+                  moduleName = "CEOJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessicacherny/Desktop/MDB2016/CEOJokes/FeedViewController.swift"
+                  timestampString = "478149944.975101"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "592">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CEOJokes.FeedViewController.init (CEOJokes.FeedViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;CEOJokes.FeedViewController&gt;"
+                  moduleName = "CEOJokes"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jessicacherny/Desktop/MDB2016/CEOJokes/FeedViewController.swift"
+                  timestampString = "478149944.975281"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "495">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

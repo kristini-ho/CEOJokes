@@ -15,6 +15,10 @@
 		98B76EB11C7D69C900F8FF40 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 98B76EAF1C7D69C900F8FF40 /* LaunchScreen.storyboard */; };
 		98B76EBC1C7D69C900F8FF40 /* CEOJokesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76EBB1C7D69C900F8FF40 /* CEOJokesTests.swift */; };
 		98B76EC71C7D69C900F8FF40 /* CEOJokesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76EC61C7D69C900F8FF40 /* CEOJokesUITests.swift */; };
+		98B76ED71C7D6B7300F8FF40 /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76ED61C7D6B7300F8FF40 /* FeedViewController.swift */; };
+		98B76ED91C7D6E1900F8FF40 /* CEOCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76ED81C7D6E1900F8FF40 /* CEOCell.swift */; };
+		98B76EDD1C7D771A00F8FF40 /* ProductsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76EDC1C7D771A00F8FF40 /* ProductsViewController.swift */; };
+		98B76EDF1C7D7D1700F8FF40 /* ProductTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 98B76EDE1C7D7D1700F8FF40 /* ProductTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +53,10 @@
 		98B76EC21C7D69C900F8FF40 /* CEOJokesUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CEOJokesUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		98B76EC61C7D69C900F8FF40 /* CEOJokesUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CEOJokesUITests.swift; sourceTree = "<group>"; };
 		98B76EC81C7D69C900F8FF40 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		98B76ED61C7D6B7300F8FF40 /* FeedViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = FeedViewController.swift; path = ../FeedViewController.swift; sourceTree = "<group>"; };
+		98B76ED81C7D6E1900F8FF40 /* CEOCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CEOCell.swift; sourceTree = "<group>"; };
+		98B76EDC1C7D771A00F8FF40 /* ProductsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProductsViewController.swift; path = ../ProductsViewController.swift; sourceTree = "<group>"; };
+		98B76EDE1C7D7D1700F8FF40 /* ProductTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProductTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,7 +109,11 @@
 			children = (
 				98B76EA31C7D69C900F8FF40 /* AppDelegate.swift */,
 				98B76EA51C7D69C900F8FF40 /* ViewController.swift */,
+				98B76ED61C7D6B7300F8FF40 /* FeedViewController.swift */,
+				98B76EDC1C7D771A00F8FF40 /* ProductsViewController.swift */,
 				98B76EA71C7D69C900F8FF40 /* Main.storyboard */,
+				98B76EDE1C7D7D1700F8FF40 /* ProductTableViewCell.swift */,
+				98B76ED81C7D6E1900F8FF40 /* CEOCell.swift */,
 				98B76EAD1C7D69C900F8FF40 /* Assets.xcassets */,
 				98B76EAF1C7D69C900F8FF40 /* LaunchScreen.storyboard */,
 				98B76EB21C7D69C900F8FF40 /* Info.plist */,
@@ -259,8 +271,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				98B76EDD1C7D771A00F8FF40 /* ProductsViewController.swift in Sources */,
 				98B76EA61C7D69C900F8FF40 /* ViewController.swift in Sources */,
+				98B76EDF1C7D7D1700F8FF40 /* ProductTableViewCell.swift in Sources */,
 				98B76EAC1C7D69C900F8FF40 /* CEOJokes.xcdatamodeld in Sources */,
+				98B76ED71C7D6B7300F8FF40 /* FeedViewController.swift in Sources */,
+				98B76ED91C7D6E1900F8FF40 /* CEOCell.swift in Sources */,
 				98B76EA41C7D69C900F8FF40 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
